@@ -23,12 +23,12 @@ Para usar este projeto, siga os passos abaixo:
 
 A estrutura de arquivos do projeto é a seguinte:
 
-.
+**.
 ├── app.py
 ├── README.md
 ├── requirements.txt
 └── templates
-└── index.html
+└── index.html**
 
 - `app.py`: arquivo Python que contém o código do servidor Flask e o código de reconhecimento de voz utilizando a biblioteca SpeechRecognition.
 - `README.md`: arquivo Markdown com informações sobre o projeto.
